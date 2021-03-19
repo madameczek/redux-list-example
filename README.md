@@ -1,6 +1,7 @@
 # Redux - przykład zastosowania biblioteki
 
-Aplikacja jest czysto java scriptowa z zastowowaniem bibioteki Redux. Nie zawiera komponentów React. Pokazuje przykładowe użycie akcji, reducerów i store.
+Aplikacja jest czysto java scriptowa z zastowowaniem bibioteki Redux. Nie zawiera komponentów React. Pokazuje przykładowe użycie akcji, reducerów i store.  
+Kliknij link, aby włączyć aplikację: [Live demo](https://www.adameczek.pl/redux-list.html)
 
 ## Licznik
 
