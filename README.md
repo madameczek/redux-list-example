@@ -11,7 +11,7 @@ Licznik składa się z dwóch kawiszy, którymi można zmieniać jego wartość.
 Tekst wpisany w oknie zostaje dodany do listy po naciśnięciu klawisza *ENTER* albo przycisku na ekranie. Każdy element listy ma klawisze *góra* i *dół*, którymi można zmieniać pozycję wpisu. 
 
 <p align="center" width="100%">
-<img width="60%" src="./images/redux.gif">
+<img width="70%" src="./images/redux.gif">
 <alt="Previev">
 </p>
 
