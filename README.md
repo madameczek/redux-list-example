@@ -13,7 +13,7 @@ Tekst wpisany w oknie zostaje dodany do listy po naciśnięciu klawisza *ENTER* 
 
 <p align="center" width="100%">
     <a href="https://www.adameczek.pl/redux-list.html" target="_blank">
-        <img width="80%" src="./images/redux.gif">
+        <img width="70%" src="./images/redux.gif">
         <alt="Previev">
     </a>
 </p>
