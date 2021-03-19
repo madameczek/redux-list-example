@@ -4,7 +4,7 @@ Aplikacja jest czysto java scriptowa z zastowowaniem bibioteki Redux. Nie zawier
 
 ## Licznik
 
-Licznik składa się z dwóch kawiszy, którymi można zmieniać jego wartość. Domyślny krok to 1. Można ustawić inny zmieniając zdefiniowaną stałą.
+Licznik składa się z dwóch kawiszy, którymi można zmieniać jego wartość. Domyślny krok to 1. Można ustawić inny zmieniając zdefiniowaną stałą i rekompilacjąc aplikację.
 
 ## Lista produktów
 
